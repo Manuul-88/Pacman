@@ -168,7 +168,7 @@ Dependiendo del estado del juego:
 
 ## Descargar FreeGLUT
 
-https://sourceforge.net/projects/freeglut/
+https://packages.msys2.org/packages/mingw-w64-x86_64-freeglut
 
 ---
 
