@@ -168,7 +168,7 @@ Dependiendo del estado del juego:
 
 ## Descargar FreeGLUT
 
-https://www.transmissionzero.co.uk/software/freeglut-devel/
+https://sourceforge.net/projects/freeglut/
 
 ---
 
